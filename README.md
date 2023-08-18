@@ -26,6 +26,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
   # Screenshots
-<img src="https://github.com/IPH-Technologies-Pvt-Ltd/Trailer-Mate-iOS-App/blob/main/TrailerMate.gif" 
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/TabBar-iOS/blob/main/TabBar.gif" 
      width="200" 
      height="400"/>
